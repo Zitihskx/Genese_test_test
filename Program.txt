@@ -1,0 +1,4 @@
+To find the largest prime number, i have used follwing algorithm:
+1. Provided number is divided by 2 till it converts to odd number.
+2. Obtained odd number is divided by all possible prime numbers upto the square root of the number.
+3. If number remained after being divided by all prime is greater than 2 then it is prime number else greatest prime number which divides the number is answer
